@@ -151,10 +151,16 @@ a:hover{
    background-color: whitesmoke;
    color: white;
 }
-.cont2>p{
+.cont2>div{
+   display: flex;
+}
+.cont2>div>p{
    font-size: 30px;
 color: black;
 font-family: sans-serif;
+}
+.cont2>div:nth-child(1){
+   border
 }
 .cont3>p{
     text-align: center;
