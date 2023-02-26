@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin:0px;
+            padding:0px;
+            box-sizing:border-box;
+        }
+        div{
+            width:80%;
+            margin:auto;
+            margin-top:5%;
+            padding:10%;
+            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        }
+        input,button{
+            width:50%;
+            font-size:20px;
+            margin-top:10px;
+            margin-left: 25%;
+        }
+        img{
+            width:100%;
+        }
+    </style>
+</head>
+<body>
+    
+    <div>
+        <img src="https://modesens.com/banner/12508/getimg/?img=%2Fbanner%2F20220616-modesens-Cettire-1140x400-EN.jpg" alt="">
+            <input type="text" id="name" placeholder="Enter Name">
+            <input type="email" id="email" placeholder="Enter e-mail">
+            <button onClick="reply()">Send Invitation</button>
+        
+    </div>
+    
+</body>
+</html>
+<script>
+    function reply() {
+            alert("Invitation Sent Successfully");
+		}    
+</script>
