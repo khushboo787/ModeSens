@@ -1,9 +1,12 @@
 # remarkable-border-1662
-https://camo.githubusercontent.com/2bd8227206af689af568a95faa20c2bb0f49a719df8b652d008f3cebde3d8359/68747470733a2f2f6c6f676f766563746f72646c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31302f6d6f646573656e732d696e632d6c6f676f2d766563746f722e706e67
+![modesensImage](https://github.com/khushboo787/remarkable-border-1662/assets/115460837/80017153-4135-45db-9e0c-91738ead0192)
+
+![20220916Category-men-modesens](https://github.com/khushboo787/remarkable-border-1662/assets/115460837/0f4d4cd9-61f6-4f28-ae1c-9f491cac020a)
 
 ModeSens is your fashion shopping assistant for the smart and informed. Established in 2015, ModeSens is led by a team of industry experts who developed a solution to the disconnected and crowded online shopping experience.This project is a clone of Modesens website. ModeSens is your digital shopping assistant dedicated to saving you time and money. With ModeSens, you can view a product's availability, price. We made use of Localstorage to store and retrieve data.The project was completed in just 4 days and was developed entirely by a solo developer.
 
 Tech-Stack
+
 
 The website was built using HTML, CSS, and JavaScript. These technologies were used to create the website's landing page, product page as well as the cart and wishlist pages.
 
@@ -18,3 +21,8 @@ To get started with the project, simply clone the repository to your local machi
 Conclusion
 
 Overall, this project is a great example of what can be accomplished with HTML, CSS, and JavaScript in just a few days. It offers several key features that users  fashion shopping assistant for the smart and informed. Whether you're a developer looking to learn new skills or simply a fan of ModeSens.com, this project is definitely worth checking out!
+
+Video Presentation:
+Link: https://drive.google.com/file/d/1UParFjq1RxOxGaF3YE0W8xKuddz0p-RZ/view?usp=share_link
+Deployement Link:
+Link: https://64a7b252307d8838400b14bc--superb-gingersnap-67efec.netlify.app/
