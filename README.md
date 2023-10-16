@@ -1,11 +1,11 @@
 # remarkable-border-1662
 
-<img width="477" alt="20220922_fashion_pic" src="https://github.com/khushboo787/remarkable-border-1662/assets/115460837/06851454-f0ed-4dea-b33b-370697b93622">
+<img width="477" alt="20220922_fashion_pic" src="https://github.com/khushboo787/remarkable-border-1662/assets/115460837/06851454-f0ed-4dea-b33b-370697b93622"> ![20220916Category-men-modesens](https://github.com/khushboo787/remarkable-border-1662/assets/115460837/0f4d4cd9-61f6-4f28-ae1c-9f491cac020a)
 
 
 ![modesensImage](https://github.com/khushboo787/remarkable-border-1662/assets/115460837/80017153-4135-45db-9e0c-91738ead0192)
 
-![20220916Category-men-modesens](https://github.com/khushboo787/remarkable-border-1662/assets/115460837/0f4d4cd9-61f6-4f28-ae1c-9f491cac020a)
+
 
 ModeSens is your fashion shopping assistant for the smart and informed. Established in 2015, ModeSens is led by a team of industry experts who developed a solution to the disconnected and crowded online shopping experience.This project is a clone of Modesens website. ModeSens is your digital shopping assistant dedicated to saving you time and money. With ModeSens, you can view a product's availability, price. We made use of Localstorage to store and retrieve data.The project was completed in just 4 days and was developed entirely by a solo developer.
 
